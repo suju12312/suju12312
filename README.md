@@ -1,4 +1,4 @@
-![logo]()
+![logo](github-header-image (2).png)
 <h1 align="center">Hi 👋, I'm Sujal Harinder Gupta</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
