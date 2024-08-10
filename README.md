@@ -1,4 +1,4 @@
-![logo](github-header-image (2).png)
+![logo](https://github.com/suju12312/banners/blob/main/github-header-image%20(2).png?raw=true)
 <h1 align="center">Hi 👋, I'm Sujal Harinder Gupta</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
