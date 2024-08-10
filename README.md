@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujal Harinder Gupta</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suju12312&label=Profile%20views&color=0e75b6&style=flat" alt="suju12312" /> </p>
 
