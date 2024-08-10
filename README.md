@@ -4,13 +4,9 @@
 
 
 - 🌱 I’m currently learning **Java , Data Structures and Algorithms**
-
 - 👨‍💻 All of my projects are available at [https://github.com/suju12312/suju12312](https://github.com/suju12312/suju12312)
-
 - 💬 Ask me about **Academics , Java for Beginners**
-
 - 📫 How to reach me **sujalgupta260119@gmail.com**
-
 - ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
