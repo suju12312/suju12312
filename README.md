@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujal Harinder Gupta</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPD0wY7e0Tc0dju4FbKfbiL_vpstgnC97behnpPxarTNRRrChdd9PDzvR6T65iK_9H3BA&usqp=CAU"
+<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPD0wY7e0Tc0dju4FbKfbiL_vpstgnC97behnpPxarTNRRrChdd9PDzvR6T65iK_9H3BA&usqp=CAU"
 
 
 - 🌱 I’m currently learning **Java , Data Structures and Algorithms**
