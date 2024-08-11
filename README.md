@@ -46,7 +46,7 @@
 
 <p><img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=suju12312&show_icons=true&locale=en&layout=compact" alt="suju12312"/>
 &nbsp;<img align="left" width="290" src="https://github-readme-stats.vercel.app/api?username=suju12312&show_icons=true&locale=en" alt="suju12312"/>
-<img align="left" width="300"  src="https://github-readme-streak-stats.herokuapp.com/?user=suju12312&" alt="suju12312" /></p><br><br>
+<img align="left" width="300"  src="https://github-readme-streak-stats.herokuapp.com/?user=suju12312&" alt="suju12312" /></p><br><br><br>
 
 <br><br><br><h3 align="left">Connect with me:</h3>
 <p align="left">
