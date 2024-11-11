@@ -1,6 +1,6 @@
 ![logo](https://github.com/suju12312/banners/blob/main/github-header-image%20(2).png?raw=true)
 
-<h3 align="center" >A passionate Java developer from India</h3>
+<h3 align="center" >A passionate Java developer And Devops Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suju12312&label=Profile%20views&color=0e75b6&style=flat" alt="suju12312" /> </p>
 
