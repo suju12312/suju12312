@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/suju12312/suju12312](https://github.com/suju12312/suju12312)
 
-- 💬 Ask me about **Academics ,Java for Beginners**
+- 💬 Ask me about **Academics ,Linux for Beginners**
 
 - 📫 How to reach me **sujalgupta260119@gmail.com**
 
