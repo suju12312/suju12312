@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suju12312&label=Profile%20views&color=0e75b6&style=flat" alt="suju12312" /> </p>
 
 
-- 🌱 I’m currently learning **Java , Data Structures and Algorithms**
+- 🌱 I’m currently learning **Python , Devops and Linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suju12312/suju12312](https://github.com/suju12312/suju12312)
 
